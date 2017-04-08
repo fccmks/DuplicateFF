@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90cfef2c-6f8e-43c1-bad0-322052bae6ea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DuplicateFF/ru/mks/duplicateff/Main.class" afterPath="$PROJECT_DIR$/out/production/DuplicateFF/ru/mks/duplicateff/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/mks/duplicateff/Main.java" afterPath="$PROJECT_DIR$/src/ru/mks/duplicateff/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,11 +18,10 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/mks/duplicateff/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="22" column="70" lean-forward="false" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+            <state relative-caret-position="799">
+              <caret line="47" column="52" lean-forward="true" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#817#855#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -666,7 +662,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -719,7 +715,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#817#855#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -994,7 +989,6 @@
           <caret line="22" column="58" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="22" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#817#855#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1269,7 +1263,6 @@
           <caret line="27" column="119" lean-forward="false" selection-start-line="27" selection-start-column="119" selection-end-line="27" selection-end-column="119" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#817#855#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1512,7 +1505,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#817#855#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1797,11 +1789,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/mks/duplicateff/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="22" column="70" lean-forward="false" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+        <state relative-caret-position="799">
+          <caret line="47" column="52" lean-forward="true" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#817#855#0" expanded="false" />
           </folding>
         </state>
       </provider>

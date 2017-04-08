@@ -18,30 +18,12 @@ public class Main {
             eqFiles.add(ef);
         }
         for (int i = 0; i < eqFiles.size(); i++) {
-            for (int j = i+1; j < eqFiles.size(); j++) {
+            for (int j = i + 1; j < eqFiles.size(); j++) {
                 if (eqFiles.get(i).length() == eqFiles.get(j).length()) {
-                   if (checkEquality(eqFiles.get(i), eqFiles.get(j))) j = j - 1;
+                    if (checkEquality(eqFiles.get(i), eqFiles.get(j))) j = j - 1;
                 }
             }
         }
-//        for (File files : eqFiles) {
-//            System.out.println(files);
-//        }
-        //System.out.println(Arrays.asList(eqFiles));
-        //Arrays.sort(fileLength);
-        //System.out.println(Arrays.toString(fileLength));
-//        ArrayList<Long> eqFiles = new ArrayList<>();
-//        for (int i = 0; i < fileLength.length - 1; i++) {
-//          if ((i == 0) & (fileLength[i] == fileLength[i+1])) {
-//              eqFiles.add(fileLength[i]);
-////              eqFiles.add(fileLength[i+1]);
-////              k = 2;
-//          } else
-//          if ((fileLength[i] == fileLength[i+1]) || (fileLength[i] == fileLength[i-1])) {
-//              eqFiles.add(fileLength[i]);
-//          }
-//        }
-//        System.out.println(Arrays.asList(eqFiles));
     }
 
     private static boolean checkEquality(File i, File j) throws Exception {
@@ -54,7 +36,7 @@ public class Main {
         }
         return false;
     }
-
+    // createChecksum and getMD5Checksum i took from http://www.rgagnon.com/javadetails/java-0416.html
     public static byte[] createChecksum(String filename) throws Exception {
         InputStream fis = new FileInputStream(filename);
         byte[] buffer = new byte[1024];
